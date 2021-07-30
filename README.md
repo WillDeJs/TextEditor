@@ -8,3 +8,5 @@ Build:
 cargo run  # to run
 cargo build --release # to compile
 ```
+
+<img src="texteditor.png"/>
